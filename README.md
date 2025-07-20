@@ -1,18 +1,18 @@
-# 🧮 PYTHON GUI CALCULATOR
+## 🧮 PYTHON GUI CALCULATOR
 
 A clean, user-friendly calculator made with **Python** and **Tkinter**. It performs basic math operations using a graphical interface with clickable buttons — perfect for beginners and quick calculations!
 
-# ⚙️ FEATURES
+## ⚙️ FEATURES
 - Simple and intuitive GUI
 - Supports Addition (+), Subtraction (−), Multiplication (×), Division (÷)
 - Real-time input and result display
 - Clear (`C`) and Equal (`=`) buttons
 
-# 🛠 TECH STACK
+## 🛠 TECH STACK
 - 🐍 Python 3.x  
 - 🖼️ Tkinter (Python’s built-in GUI library)
 
-# ▶️ HOW TO RUN
+## ▶️ HOW TO RUN
 1. Ensure Python is installed.
 2. Save the script as `calculator.py`.
 3. Open terminal or command prompt and run:
@@ -20,11 +20,11 @@ A clean, user-friendly calculator made with **Python** and **Tkinter**. It perfo
    python calculator.py
    ```
 
-# 🖼️ SCREENSHOT
+## 🖼️ SCREENSHOT
 ![Calculator Preview](calculator.png)
 
 
-# 📦 OPTIONAL SETUP FILE
+## 📦 OPTIONAL SETUP FILE
 If you'd like to build an installable `.exe` version:
 
 1. Make sure `setup2.py` is in the same folder.
@@ -36,11 +36,11 @@ If you'd like to build an installable `.exe` version:
 
 *Note: You must have `pyinstaller` installed.*
 
-# 📁 FILE STRUCTURE
+## 📁 FILE STRUCTURE
 1. Calculator.py 
 2. setup2.py
 3. README.md 
 4. calculator.png
 
-# 👤 AUTHOR  
+## 👤 AUTHOR  
 Vinamra Gupta
